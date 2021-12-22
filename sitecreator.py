@@ -6,8 +6,8 @@ def min_function(a,b):
 a=5
 b=3
 myhtmlcode = "<h1> This is site header </h1>"
-myhtmlcode = myhtmlcode + "</p> The sum of " + str(a) + " and " + str(b) + " equals " + str(add_function(a,b)) + "</p>"
-myhtmlcode = myhtmlcode + "</p> The sum of " + str(a) + " and " + str(b) + " equals " + str(min_function(a,b)) + "</p>"
+myhtmlcode = myhtmlcode + "</p> The sum of the " + str(a) + " and " + str(b) + " equals " + str(add_function(a,b)) + "</p>"
+myhtmlcode = myhtmlcode + "</p> The sum of the " + str(a) + " and " + str(b) + " equals " + str(min_function(a,b)) + "</p>"
 
 
 
